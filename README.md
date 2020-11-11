@@ -4,7 +4,9 @@
 
 <br/>
 
-Deploy this to netlify, with netlifyCMS integrated, by clicking the button!
+Deploy this to netlify, with netlifyCMS integrated, by clicking the button below!
+
+<br/>
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kaziridwan/gatsby-starter-novela-netlifycms)
 
 <br/>
