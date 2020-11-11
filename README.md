@@ -4,6 +4,11 @@
 
 <br/>
 
+Deploy this to netlify, with netlifyCMS integrated, by clicking the button!
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/kaziridwan/gatsby-starter-novela-netlifycms)
+
+<br/>
+
 # Gatsby Starter Novela
 
 With minimal styling and maximum features — including multiple homepage layouts, built-in social sharing and dark mode — Novela makes it easy to start publishing beautiful articles and stories with Gatsby.
@@ -62,6 +67,10 @@ http://localhost:8000/admin to view the editor.
 # Run proxy
 yarn proxy
 ```
+
+### Step 3: Enabling Netlify CMS
+1. Edit the `static/admin/config.yml` and change the URL to your own repo URL
+2. Enable Oauth access from github. Visit [this url](https://docs.netlify.com/visitor-access/oauth-provider-tokens/#setup-and-settings) for instructions
 
 ### Help
 
